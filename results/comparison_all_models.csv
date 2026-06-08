@@ -1,4 +1,0 @@
-Model,Final Train Accuracy,Final Val Accuracy,Final Train Loss,Final Val Loss,mAP,Params (M),Train Time (min),Best
-ResNet50,68.98%,45.44%,0.8313,1.666,0.468,24.12,81.43,
-DenseNet121,65.86%,45.89%,0.9205,1.5126,0.4763,7.31,56.97,
-MobileNetV3Small,61.83%,44.67%,1.0258,1.5693,0.4583,1.09,55.33,YES
