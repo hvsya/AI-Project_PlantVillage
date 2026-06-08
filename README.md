@@ -10,7 +10,7 @@ Agriculture Health
 
 ## Dataset
 
-PlantVillage Dataset ( 10 Classes)
+PlantVillage Dataset (10 Classes)
 
 ## Models Used
 
