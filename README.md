@@ -24,4 +24,4 @@ PlantVillage Dataset (10 Classes)
 * Data Modelling
 * Data Visualization
 
-## Total Images Used: 6033
+## Total Images Used: 909
